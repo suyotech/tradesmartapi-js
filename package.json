@@ -1,0 +1,38 @@
+{
+  "name": "@suyotech-dev/tradesmartapi-js",
+  "version": "1.0.0",
+  "description": "Trade Smart API build by suyotech.com for internal use",
+  "main": "./lib/index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./lib/index.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suyogbpatil/tradesmartapi-js.git"
+  },
+  "keywords": [
+    "tradesmart",
+    "api",
+    "sdk",
+    "js",
+    "suyotech"
+  ],
+  "author": "https://suyotech.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suyogbpatil/tradesmartapi-js/issues"
+  },
+  "homepage": "https://github.com/suyogbpatil/tradesmartapi-js#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.16",
+    "axios": "^1.7.9",
+    "totp-generator": "^1.0.0",
+    "ws": "^8.18.1"
+  }
+}
