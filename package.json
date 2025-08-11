@@ -1,6 +1,6 @@
 {
   "name": "@suyotech-dev/tradesmartapi-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Trade Smart API build by suyotech.com for internal use",
   "main": "./lib/index.js",
   "type": "module",
