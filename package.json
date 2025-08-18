@@ -1,6 +1,6 @@
 {
   "name": "@suyotech-dev/tradesmartapi-js",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Trade Smart API build by suyotech.com for internal use",
   "main": "./lib/index.js",
   "type": "module",
@@ -34,7 +34,7 @@
   "homepage": "https://github.com/suyotech/tradesmartapi-js#readme",
   "dependencies": {
     "adm-zip": "^0.5.16",
-    "axios": "^1.7.9",
+    "axios": "^1.11.0",
     "luxon": "^3.7.1",
     "totp-generator": "^1.0.0",
     "ws": "^8.18.1"
